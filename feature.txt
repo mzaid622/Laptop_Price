@@ -1,0 +1,5 @@
+Memory
+Ram
+Weight
+Memory_numeric
+Cpu_brand_Inte
